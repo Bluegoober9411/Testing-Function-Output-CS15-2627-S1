@@ -268,5 +268,3 @@ Create your own functions and use PyTest to verify that each function produces t
 * Create **3 different functions** that accept at least one parameter and return a calculated value.
 * Create at least **2 tests for each function**, using different input values for each test.
 * Include at least **one test involving decimal values** that uses `pytest.approx()`.
-* Include at least **one intentionally incorrect function or test**, run PyTest to identify the problem, and then correct it.
-* Run PyTest with all completed tests and ensure that **every test passes**.
